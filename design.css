@@ -1,0 +1,11 @@
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2020/02/05/15/47/natural-4821583_1280.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: bisque;
+    text-align: center;
+    
+}
