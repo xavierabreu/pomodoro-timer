@@ -7,5 +7,9 @@ body {
 #welcomeMessage {
     color: bisque;
     text-align: center;
-    
+}
+
+#initialTimer {
+    text-align: center;
+    font-size: 90px;
 }
